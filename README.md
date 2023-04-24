@@ -1,9 +1,8 @@
-# CMU Interactive Data Science Assigment 3
+# Time Series- Housing Rental App
 
-* **Team members**: natashab@andrew.cmu.edu and xinyuzou@andrew.cmu.edu (Update XXXX with your team's emails)
-* **Online URL**: https://share.streamlit.io/CMU-IDS-Fall-2022/xinyu-natasha/master/app.py (Update YYYY with your repo name)
-New Url:
-https://cmu-ids-spring-2023-xinyu-natasha-app-w1d0l4.streamlit.app/
+* **Team members**: natashab@andrew.cmu.edu 
+Streamlit Url:
+https://natashabaruah-cmu-time-series-prototype-ovgxf5.streamlit.app/
 
 ## Instructions
 
