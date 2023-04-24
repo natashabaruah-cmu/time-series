@@ -45,7 +45,7 @@ st.pyplot(plt)
 
 st.write("⬇ The metrics for different models")
 
-image1 = Image.open('metrics.jpg')
+image1 = Image.open('metrics.JPG')
 st.image(image1)
 
 #Selecting the model type
@@ -68,7 +68,7 @@ def image_select(prompt, options):
         st.warning("Failed to load image")
 
 # Define available image options
-options = ["RMSE.jpg", "MDA.jpg", "MAE.jpg", "MAPE.jpg"]
+options = ["RMSE.JPG", "MDA.JPG", "MAE.JPG", "MAPE.JPG"]
 
 # Call image_select function
 image_select("Select Model type", options)
@@ -79,7 +79,7 @@ st.write("ETS and ARIMA models")
 image2 = Image.open('models.png')
 st.image(image2)
 
-image3 = Image.open('models2.jpg')
+image3 = Image.open('models2.JPG')
 st.image(image3)
 
 #Forecasting
