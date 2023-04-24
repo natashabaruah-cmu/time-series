@@ -3,3 +3,4 @@ pandas
 altair
 matplotlib
 seaborn
+streamlit_image_select
