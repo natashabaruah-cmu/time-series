@@ -110,4 +110,4 @@ st.write("Lets look at some of our parameters in selecting th best model.")
 image2 = Image.open('7.JPG')
 st.image(image2)
 
-st.markdown("**:green[Triple Mul model works best for 3 bedroom and Triple add works best for 4 bedroom.]**")
+st.markdown("**:green[Triple Mul model works best for 3 bedroom and Triple add model works best for 4 bedroom.]**")
