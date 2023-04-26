@@ -2,7 +2,7 @@
 
 * **Team members**: natashab@andrew.cmu.edu 
 Streamlit Url:
-https://natashabaruah-cmu-time-series-prototype-ovgxf5.streamlit.app/
+https://natashabaruah-cmu-time-series-prototype-eflkj5.streamlit.app/
 
 ## Instructions
 
